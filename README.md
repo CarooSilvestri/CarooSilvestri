@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroo-silvestri/)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcsilvestri19@gmail.com)[![Download CV (EN)](https://img.shields.io/badge/Download%20CV%20(EN)-EF6079?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/CarooSilvestri/CarooSilvestri/main/CV%20-%20Silvestri%20(EV).pdf))[![Descargar CV (ES)](https://img.shields.io/badge/Descargar%20CV%20(ES)-785FA5?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/CarooSilvestri/CarooSilvestri/main/CV%20-%20Silvestri%20(SV).pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroo-silvestri/)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcsilvestri19@gmail.com)[![Download CV (EN)](https://img.shields.io/badge/Download%20CV%20(EN)-EF6079?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/CarooSilvestri/CarooSilvestri/main/CV%20-%20Silvestri%20(EV).pdf)[![Descargar CV (ES)](https://img.shields.io/badge/Descargar%20CV%20(ES)-785FA5?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/CarooSilvestri/CarooSilvestri/main/CV%20-%20Silvestri%20(SV).pdf)
   
 </div>
 
