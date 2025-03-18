@@ -18,7 +18,7 @@
 
 ## 📈 **Mi Github Stats**  
 *(Si quieres mostrar tus estadísticas, usa este snippet:)*  
-![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=dracula)
+![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarooSilvestri&show_icons=true&theme=dracula)
 
 ---
 
@@ -35,5 +35,5 @@
 ---
 
 ## 🔗 Conéctate conmigo  
-📧 [Email](mailto:tuemail@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
+📧 [Email](mailto:mcsilvestri19@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/caroosilvestri)  
 
