@@ -4,7 +4,7 @@
 
 <b>
   <h3 align="center">
-    💻 Frontend Developer | 🎨 Multimedia Designer  
+    💻 Frontend Developer based in Buenos Aires 
   </h3>
 </b>
 
