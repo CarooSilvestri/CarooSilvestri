@@ -7,7 +7,6 @@ Currently working as a **Freelancer** (but looking for a job) and studying **Hum
 
 
 ## 🛠️ Tech Stack  
-## 📊 Tecnologías y Herramientas:  
 🛠️ **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 🎨 **Diseño:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)  
@@ -18,7 +17,7 @@ Currently working as a **Freelancer** (but looking for a job) and studying **Hum
 ---
 
 ## 📊 GitHub Stats  
-![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=dracula)  
+![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarooSilvestri&show_icons=true&theme=dracula)  
 
 ---
 
