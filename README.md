@@ -8,12 +8,19 @@
   </h3>
 </b>
 
+<p align="center">
+  🌸✨ Coding is like art, but more structured ✨🌸
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/caroosilvestri)](https://www.linkedin.com/in/caroo-silvestri/)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcsilvestri19@gmail.com)[![Download CV (EN)](https://img.shields.io/badge/Download%20CV%20(EN)-EF6079?style=for-the-badge&logo=download&logoColor=white)](https://github.com/CarooSilvestri/CarooSilvestri/blob/main/CV%20-%20Silvestri%20(EV).pdf)[![Descargar CV (ES)](https://img.shields.io/badge/Descargar%20CV%20(ES)-785FA5?style=for-the-badge&logo=download&logoColor=white)](https://github.com/CarooSilvestri/CarooSilvestri/blob/main/CV%20-%20Silvestri%20(SV).pdf)
+
+
 ---
 
 🫀 I'm passionate about **efficient design, clean code, and kind people**.  
-💻 I studied **Multimedia Design** and previously **Software Engineering**, so now I'm a frontender—pretty cool, right? 
-🗣️ Spanish is my mother tongue, English is my second best friend (but I’m still warming up to it), and I'm on a mission to conquer Russian and Italian!
-🤓 Currently working as a **Freelancer** (but looking for a job) and studying **Human Resources** (to cheat the system).  
+💻 I studied **Multimedia Design** and previously **Software Engineering**, so now I'm a frontender—pretty cool, right? <br />
+🗣️ Spanish is my mother tongue, English is my second best friend (but I’m still warming up to it), and I'm on a mission to conquer Russian and Italian! <br/>
+🤓 Currently working as a **Freelancer** (but looking for a job) and studying **Human Resources** (to cheat the system). 
 
 <br />
 
@@ -46,8 +53,6 @@
     </td>
   </tr>
 </table>
-
-## 📩 Contact me! 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caroosilvestri)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)[![Download CV (EN)](https://img.shields.io/badge/Download%20CV%20(EN)-EF6079?style=for-the-badge&logo=download&logoColor=white)](https://github.com/CarooSilvestri/CarooSilvestri/blob/main/CV%20-%20Silvestri%20(EV).pdf)[![Descargar CV (ES)](https://img.shields.io/badge/Descargar%20CV%20(ES)-785FA5?style=for-the-badge&logo=download&logoColor=white)](https://github.com/CarooSilvestri/CarooSilvestri/blob/main/CV%20-%20Silvestri%20(SV).pdf)
+<br />
 
 
