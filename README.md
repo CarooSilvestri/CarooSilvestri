@@ -1,39 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Carolina!
+### 🎨 Multimedia Designer | 💻 Frontend Developer | 🏎 F1 Enthusiast 
 
-# 👋 ¡Hola, soy Carolina!
-### 🎨 Diseñadora | 💻 Dev Frontend | 🏎 Fan de la F1 
-
-😄 Me gusta mezclar **diseño, código y gestión de personas**.  
-🚀 Actualmente trabajo en **reclutamiento tech** y en proyectos personales.  
-🎯 Buscando hacer las cosas **más eficientes y bonitas**.  
+I'm passionate about **design, coding, and people**.  
+I studied **Multimedia Design** at ISEC and previously studied **Software Engineering** at UBA.  
+Currently, I'm working as a **Tech Recruiter** and studying **Human Resources**.  
 
 ---
 
-## 📊 Tecnologías y Herramientas:
-🛠️ **Frontend:** React, Astro, CSS, Tailwind  
-🎨 **Diseño:** Figma, Adobe Suite  
-📌 **Otros:** Git, Notion, Telegram Bots  
+## 🛠️ Tech Stack  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
-## 📈 **Mi Github Stats**  
-*(Si quieres mostrar tus estadísticas, usa este snippet:)*  
-![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarooSilvestri&show_icons=true&theme=dracula)
+## 📊 GitHub Stats  
+![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=dracula)  
 
 ---
 
-## 🎮 **Modo Interactivo - ¿Cómo me defines?**  
-<!-- Divertido con botones en Markdown -->
-📢 **Elige una opción:**
-
-- 🖌 **Diseñadora creativa**  
-- 🧑‍💻 **Dev frontend con amor por el detalle**  
-- 🏎 **Obsesionada con la Fórmula 1**  
-- 🧐 **Recruiter con ojo para el talento**  
-- 🎲 **Gamer casual y fan de Epic Seven**  
-
----
-
-## 🔗 Conéctate conmigo  
-📧 [Email](mailto:mcsilvestri19@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/caroosilvestri)  
-
+## 📩 Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)  
