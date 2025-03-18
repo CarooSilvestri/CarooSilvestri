@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Carolina!
-### 🎨 Multimedia Designer | 💻 Frontend Developer | 🏎 F1 Enthusiast 
+# 👋 Hi, I'm Carolina!  
+### 💻 Frontend Developer | 🏎 F1 Fan | 🎨 Multimedia Designer  
 
-I'm passionate about **design, coding, and people**.  
-I studied **Multimedia Design** at ISEC and previously studied **Software Engineering** at UBA.  
-Currently, I'm working as a **Tech Recruiter** and studying **Human Resources**.  
+I'm passionate about **efficient design, clean code, and kind people**.  
+I studied **Multimedia Design** and previously **Software Engineering**, so now I'm a frontender—pretty cool, right?  
+Currently working as a **Freelancer** (but looking for a job) and studying **Human Resources** (to cheat the system).  
 
 ---
 
