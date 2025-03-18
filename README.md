@@ -1,5 +1,6 @@
 <h1 align="center" color="red" style="font-family: 'Mohave', sans-serif; color: #EF6079;">👋 Hi, I'm Carolina!</h1>
-!(img)[./presentation.svg]
+![Texto alternativo](presentation.svg)
+
 
 ### 💻 Frontend Developer | 🏎️ F1 Fan | 🎨 Multimedia Designer  
 
