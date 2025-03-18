@@ -1,5 +1,5 @@
 <h1 align="center" color="red" style="font-family: 'Mohave', sans-serif; color: #EF6079;">👋 Hi, I'm Carolina!</h1>
-![Texto alternativo](presentation.svg)
+!(https://github.com/CarooSilvestri/CarooSilvestri/raw/main/presentation.png)
 
 
 ### 💻 Frontend Developer | 🏎️ F1 Fan | 🎨 Multimedia Designer  
